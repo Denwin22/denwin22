@@ -2,7 +2,8 @@
 _ _ _
 Меня зовут Денис. Я являюсь начинающим специалистом в области тестирования программного обеспечения, обладающим опытом, полученным в ходе прохождения курса по тестированию в [Netology](https://netology.ru/programs/qa?utm_source=admitad&utm_medium=cpa&utm_campaign=affiliate&admitad_uid=ab8201b70adc291eadef15fda3d22387&utm_term=58#/lessons). Мои навыки и знания охватывают различные инструменты и технологии, что подтверждено практическим опытом.
 
-## [Резюме](https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b)
+## My CV 
+###[Резюме](https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b)
 
 ## Навыки и Инструменты
 * Умение работать с чек-листами:
