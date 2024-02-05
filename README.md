@@ -12,8 +12,8 @@ _ _ _
 ## My CV 
 [Резюме](https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b)
 
-### Портфолио
-## Тестовая документация
+## Портфолио
+### Тестовая документация
 * Чек-листы
   * [Чек-лист v1](https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing)
 * Тест-кейсы
