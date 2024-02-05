@@ -3,7 +3,13 @@ _ _ _
 Меня зовут Денис. Я являюсь начинающим специалистом в области тестирования программного обеспечения, обладающим опытом, полученным в ходе прохождения курса по тестированию в [Netology](https://netology.ru/programs/qa?utm_source=admitad&utm_medium=cpa&utm_campaign=affiliate&admitad_uid=ab8201b70adc291eadef15fda3d22387&utm_term=58#/lessons). Мои навыки и знания охватывают различные инструменты и технологии, что подтверждено практическим опытом.
 
 ## My CV 
-###[Резюме](https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b)
+[Резюме](https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b)
+
+## Портфолио
+* Тестовая документация
+  * [Чек-лист](https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing)
+  * [Тест-кейсы](https://docs.google.com/spreadsheets/d/1ObvGUQDp24wZhaYW7clhJqqU3-rMOfYQTQxMRdZIZ5A/edit?usp=sharing)
+  * [Баг-репорт](https://github.com/Denwin22/HW-2.1-Gradle/issues/3)
 
 ## Навыки и Инструменты
 * Умение работать с чек-листами:
