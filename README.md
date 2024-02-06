@@ -25,7 +25,7 @@ _ _ _
   * [Баг-репорт v2](https://docs.google.com/spreadsheets/d/1ocwzTN2uerMq5333g-u7XDtQqy_dEL2gpkklJny20e8/edit?usp=sharing)
 
 ## Навыки и Инструменты
-* Умение работать с чек-листами:
+* Умение работать с чек-листами:![check](../icon/free-icon-check-list-7128936.png)
 * Умение создавать тест-кейсы:
 * Баг-репорты:
 * Владение Git:
