@@ -40,9 +40,6 @@ _ _ _
 * Опыт с GitHub:
 
 <p align="left">
-<a href="*">
-<img src="https://github.com/Denwin22/denwin22/blob/main/icon/free-icon-check-list-7128936.png" alt="check" width="50" height="50" />
-</a>
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
 </a>
