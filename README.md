@@ -13,6 +13,7 @@ _ _ _
 [Резюме](https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b)
 
 ## Портфолио
+<div>
 ### Тестовая документация
 * Чек-листы
   * [Чек-лист v1](https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing)
@@ -23,6 +24,7 @@ _ _ _
 * Баг-репорты
   * [Баг-репорт v1](https://github.com/Denwin22/HW-2.1-Gradle/issues/3)
   * [Баг-репорт v2](https://docs.google.com/spreadsheets/d/1ocwzTN2uerMq5333g-u7XDtQqy_dEL2gpkklJny20e8/edit?usp=sharing)
+</div>
 
 ## Навыки и Инструменты
 * Умение работать с чек-листами:
