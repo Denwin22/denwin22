@@ -18,8 +18,11 @@ _ _ _
   * [Чек-лист v1](https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing)
 * Тест-кейсы
   * [Тест-кейс v1](https://docs.google.com/spreadsheets/d/1ObvGUQDp24wZhaYW7clhJqqU3-rMOfYQTQxMRdZIZ5A/edit?usp=sharing)
+  * [Тест-кейс v2](https://docs.google.com/spreadsheets/d/1YJgZ3hwcqTeKmLiDaBYlRFHsiiamZ03Lffkzhp8WPoo/edit?usp=sharing)
+  * [Тест-кейс v3](https://docs.google.com/spreadsheets/d/1CczEwWDwESGf95G1CNCt-h1oZZhxjtuBGLBEcVZwqkY/edit?usp=sharing)
 * Баг-репорты
   * [Баг-репорт v1](https://github.com/Denwin22/HW-2.1-Gradle/issues/3)
+  * [Баг-репорт v2](https://docs.google.com/spreadsheets/d/1ocwzTN2uerMq5333g-u7XDtQqy_dEL2gpkklJny20e8/edit?usp=sharing)
 
 ## Навыки и Инструменты
 * Умение работать с чек-листами:
