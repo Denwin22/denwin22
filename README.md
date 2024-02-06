@@ -40,6 +40,16 @@ _ _ _
 * Знание SQL:
 * Фреймворк JUnit:
 * Опыт с GitHub:
+
+<a href="*">
+<img src="https://github.com/Denwin22/denwin22/blob/main/icon/free-icon-check-list-7128936.png" alt="check" width="50" height="50" />
+</a>
+<a href="https://www.postman.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+</a>
+<a href="https://grafana.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Grafana.png" alt="Grafana" width="50" height="50" />
+</a>
 _ _ _
 ### Дополнительные качества
 *Я постоянно стремлюсь развиваться и углублять свои знания в области тестирования. Готов к обучению и постоянному совершенствованию в данной области. Моя цель - внести ценный вклад в команду и успешно справляться с задачами тестирования. В моем портфолио представлены примеры проектов и дополнительные материалы, подтверждающие мой профессиональный рост.*
