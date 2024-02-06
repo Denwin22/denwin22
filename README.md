@@ -14,7 +14,7 @@ _ _ _
 
 ## Портфолио
 <div>
-### Тестовая документация
+<p><h1>Тестовая документация</h1></p>
 * Чек-листы
   * [Чек-лист v1](https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing)
 * Тест-кейсы
