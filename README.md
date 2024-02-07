@@ -13,7 +13,7 @@ _ _ _
 <h2><a href="https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b">Резюме</a></h2>
 
 ## Портфолио
-<div>
+<div align="left">
 <p><h3>Тестовая документация</h3></p>
 <ul><h3>Чек-листы</h3>
   <li><a href="https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing">Чек-лист v1</li>
