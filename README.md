@@ -25,7 +25,7 @@ _ _ _
  </ul>
 <ul><h3>Баг-репорты</h3>
   <li><a href="https://github.com/Denwin22/HW-2.1-Gradle/issues/3">Баг-репорт v1</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1ocwzTN2uerMq5333g-u7XDtQqy_dEL2gpkklJny20e8/edit?usp=sharing">Баг-репорт v2]</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1ocwzTN2uerMq5333g-u7XDtQqy_dEL2gpkklJny20e8/edit?usp=sharing">Баг-репорт v2</a></li>
  </ul>
 </div>
 
