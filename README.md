@@ -16,7 +16,7 @@ _ _ _
 <div>
 <p><h3>Тестовая документация</h3></p>
 <ol>Чек-листы
-  <li><a href="[url](https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing)">Чек-лист v1</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing">Чек-лист v1</li>
 </ol>
 <ol>Тест-кейсы
   <li>[Тест-кейс v1](https://docs.google.com/spreadsheets/d/1ObvGUQDp24wZhaYW7clhJqqU3-rMOfYQTQxMRdZIZ5A/edit?usp=sharing)</li>
