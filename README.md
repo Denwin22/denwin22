@@ -15,15 +15,15 @@ _ _ _
 ## Портфолио
 <div>
 <p><h3>Тестовая документация</h3></p>
-<ul>Чек-листы
+<ul><h3>Чек-листы</h3>
   <li><a href="https://docs.google.com/spreadsheets/d/1oD7B3lBSWRVlhRiapCHnzZzCXTwnx4Yei0i3uIyM80E/edit?usp=sharing">Чек-лист v1</li>
 </ul>
-<ul>Тест-кейсы
+<ul><h3>Тест-кейсы</h3>
   <li><a href="https://docs.google.com/spreadsheets/d/1ObvGUQDp24wZhaYW7clhJqqU3-rMOfYQTQxMRdZIZ5A/edit?usp=sharing">Тест-кейс v1</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1YJgZ3hwcqTeKmLiDaBYlRFHsiiamZ03Lffkzhp8WPoo/edit?usp=sharing">Тест-кейс v2</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1CczEwWDwESGf95G1CNCt-h1oZZhxjtuBGLBEcVZwqkY/edit?usp=sharing">Тест-кейс v3</a></li>
  </ul>
-<ul>Баг-репорты
+<ul><h3>Баг-репорты</h3>
   <li><a href="https://github.com/Denwin22/HW-2.1-Gradle/issues/3">Баг-репорт v1</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1ocwzTN2uerMq5333g-u7XDtQqy_dEL2gpkklJny20e8/edit?usp=sharing">Баг-репорт v2]</a></li>
  </ul>
