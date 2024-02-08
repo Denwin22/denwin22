@@ -11,9 +11,7 @@ _ _ _
 
 ## My CV
 <h2>
-<a href="https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b">
-<img src="icon/к19.jpg" alt="Resume" width="500" height="100" />
-</a>
+<a href="https://hh.ru/applicant/resumes/view?resume=14819c0fff07c52cba0039ed1f336a3471626b">Резюме</a>
 </h2>
 
 ## Портфолио
