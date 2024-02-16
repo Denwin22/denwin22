@@ -61,6 +61,16 @@ _ _ _
 _ _ _
 ### Дополнительные качества
 *Я постоянно стремлюсь развиваться и углублять свои знания в области тестирования. Готов к обучению и постоянному совершенствованию в данной области. Моя цель - внести ценный вклад в команду и успешно справляться с задачами тестирования. В моем портфолио представлены примеры проектов и дополнительные материалы, подтверждающие мой профессиональный рост.*
+_ _ _
+<div>
+   <ul>
+     <h3>Электронные сертификаты</h3>
+      <li><a href="https://netology.ru/sharing/624d4237d589a520ea24e869e10f1697?utm_source=social&utm_campaign=achievements">Git - Система контроля версий</a></li>
+      <li><a href="https://netology.ru/sharing/b13a61562d19689940f2af896b9571af?utm_source=social&utm_campaign=achievements">Ручное тестирование веб-приложений</a></li>
+      <li><a href="https://netology.ru/sharing/b96e6fc0efc9c50dc30e573277e91eb7?utm_source=social&utm_campaign=achievements">Java для тестировщиков</a></li>
+      <li><a href="https://netology.ru/sharing/1a7a1216c7bad946932801d8293d4225?utm_source=social&utm_campaign=achievements">Автоматизированное тестирование</a></li>
+  </ul>
+</div>
 ### Контакты
 [![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denwin/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/toncoin2026)
