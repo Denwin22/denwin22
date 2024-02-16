@@ -71,6 +71,7 @@ _ _ _
       <li><a href="https://netology.ru/sharing/1a7a1216c7bad946932801d8293d4225?utm_source=social&utm_campaign=achievements">Автоматизированное тестирование</a></li>
   </ul>
 </div>
+
 ### Контакты
 [![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denwin/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/toncoin2026)
